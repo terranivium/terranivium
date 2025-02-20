@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Wesley Scott
 
-Software Developer specializing in game engine development, audio processing, and machine learning applications. With a unique background spanning game audio engineering and software development, I create robust, scalable systems that bridge technical precision with creative solutions.
+Software Developer specialising in game engine development, audio processing, and machine learning applications. Leveraging my background in both game audio and software engineering, I architect high-performance systems where technical innovation meets creative problem-solving.
 
 ## 🔧 Tech Stack
 
@@ -48,7 +48,7 @@ Software Developer specializing in game engine development, audio processing, an
 
 ## 💼 Professional Journey
 
-**Currently @ Krotos Ltd** - Building ML-powered audio processing solutions, managing CI/CD infrastructure, and optimizing DSP algorithms.
+**Currently @ Krotos Ltd** - Building ML-powered audio processing solutions, managing CI/CD infrastructure, and optimising DSP algorithms.
 
 **Previously:**
 - Created soundtracks and audio for games published on Steam (Games Workshop, Sekai Project)
@@ -70,7 +70,3 @@ Software Developer specializing in game engine development, audio processing, an
 [![Email](https://img.shields.io/badge/Email-wesleyscottuk%40gmail.com-red)](mailto:wesleyscottuk@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wesley_Scott-blue)](https://www.linkedin.com/in/your-linkedin)
 [![Phone](https://img.shields.io/badge/Phone-%2B44_7857409881-green)](tel:+447857409881)
-
----
-
-*"From game audio to ML-powered engines - building the future of interactive experiences"*
