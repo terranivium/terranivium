@@ -41,13 +41,11 @@ Software Developer specialising in game engine development, audio processing, an
     <td>
       <a href="https://github.com/catchorg/Catch2"><img src="https://img.shields.io/badge/-Catch2-F05032?style=flat-square" /></a>
       <a href="https://github.com/google/googletest"><img src="https://img.shields.io/badge/-GoogleTest-4285F4?style=flat-square&logo=google&logoColor=white" /></a>
-      <a href="https://en.wikipedia.org/wiki/Unit_testing"><img src="https://img.shields.io/badge/-Unit_Testing-25A162?style=flat-square" /></a>
     </td>
   </tr>
   <tr>
     <td><strong>Data & Analytics</strong></td>
     <td>
-      <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /></a>
       <a href="https://analytics.google.com/"><img src="https://img.shields.io/badge/-Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white" /></a>
       <a href="https://mixpanel.com/"><img src="https://img.shields.io/badge/-Mixpanel-8A2BE2?style=flat-square" /></a>
     </td>
@@ -64,7 +62,6 @@ Software Developer specialising in game engine development, audio processing, an
     <td>
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
     </td>
   </tr>
 </table>
