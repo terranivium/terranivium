@@ -44,7 +44,7 @@ Software Developer specialising in game engine development, audio processing, an
     </td>
   </tr>
   <tr>
-    <td><strong>Data & Analytics</strong></td>
+    <td><strong>Analytics</strong></td>
     <td>
       <a href="https://analytics.google.com/"><img src="https://img.shields.io/badge/-Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white" /></a>
       <a href="https://mixpanel.com/"><img src="https://img.shields.io/badge/-Mixpanel-8A2BE2?style=flat-square" /></a>
