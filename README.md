@@ -46,7 +46,7 @@ My background in audio engineering (Games Workshop, Sekai Project) informs my ap
 ## 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-wesleyscottuk%40gmail.com-red)](mailto:wesleyscottuk@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wesley_Scott-blue)](https://www.linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wesley_Scott-blue)](https://www.linkedin.com/in/wesley-scott-0bb536101)
 [![Phone](https://img.shields.io/badge/Phone-%2B44_7857409881-green)](tel:+447857409881)
 
 ---
