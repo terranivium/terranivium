@@ -68,17 +68,6 @@ Software Developer specialising in game engine development, audio processing, an
     </td>
   </tr>
 </table>
-  <tr>
-    <td><strong>DevOps & QA</strong></td>
-    <td>
-      <a href="https://cmake.org/"><img src="https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" /></a>
-      <a href="https://circleci.com/"><img src="https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" /></a>
-      <a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" /></a>
-      <a href="https://github.com/catchorg/Catch2"><img src="https://img.shields.io/badge/-Catch2-F05032?style=flat-square" /></a>
-      <a href="https://github.com/google/googletest"><img src="https://img.shields.io/badge/-GoogleTest-4285F4?style=flat-square&logo=google&logoColor=white" /></a>
-    </td>
-  </tr>
-</table>
 
 ## 💼 Professional Journey
 
