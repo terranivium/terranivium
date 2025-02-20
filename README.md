@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Wesley Scott
 
-Software Developer with expertise in audio processing, ML integration, and CI/CD pipelines. My journey spans from audio engineering to software development, with a passion for creating robust, scalable solutions.
+Software Developer specializing in game engine development, audio processing, and machine learning applications. With a unique background spanning game audio engineering and software development, I create robust, scalable systems that bridge technical precision with creative solutions.
 
 ## 🔧 Tech Stack
+
 <table>
   <tr>
     <td><strong>Languages</strong></td>
@@ -45,13 +46,18 @@ Software Developer with expertise in audio processing, ML integration, and CI/CD
   </tr>
 </table>
 
-## 💼 Professional Experience
+## 💼 Professional Journey
 
-Currently working as a **Software Developer at Krotos Ltd.** where I:
-- Oversee CI/CD pipelines, infrastructure, and architecture
-- Integrate machine learning models for audio processing
-- Deliver DSP and GUI solutions for audio software
-- Optimize feature integration for performance and scalability
+**Currently @ Krotos Ltd** - Building ML-powered audio processing solutions, managing CI/CD infrastructure, and optimizing DSP algorithms.
+
+**Previously:**
+- Created soundtracks and audio for games published on Steam (Games Workshop, Sekai Project)
+- Built quality control systems for manufacturing environments
+
+## 📊 Featured Projects
+
+- VocalSlice - A desktop application that uses Whisper AI to find and extract specific voice lines from audio files
+- [Speech Emotion Recognition](https://github.com/terranivium/speech-emotion-recognition) - Deep learning for dimensional characterization of affect in speech (MSc thesis)
 
 ## 🎓 Education
 
@@ -59,28 +65,12 @@ Currently working as a **Software Developer at Krotos Ltd.** where I:
   - Thesis: ["Deep learning for robust dimensional characterisation of affect in speech"](https://github.com/terranivium/speech-emotion-recognition)
 - **BSc (Hons) in Audio Technology** - Glasgow Caledonian University
 
-## 🔍 Current Focus
-
-- Audio processing algorithms and optimization
-- Machine learning integration in audio applications
-- Robust CI/CD practices and testing frameworks
-- Creating accessible audio technology
-
-## 📊 Featured Projects
-
-- [Speech Emotion Recognition](https://github.com/terranivium/speech-emotion-recognition) - MSc thesis project on deep learning for dimensional characterization of affect in speech
-
-
-## 🎵 Background
-
-My background in audio engineering (Games Workshop, Sekai Project) informs my approach to software development, combining technical precision with creative problem-solving.
-
 ## 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-wesleyscottuk%40gmail.com-red)](mailto:wesleyscottuk@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wesley_Scott-blue)](https://www.linkedin.com/in/wesley-scott-0bb536101)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wesley_Scott-blue)](https://www.linkedin.com/in/your-linkedin)
 [![Phone](https://img.shields.io/badge/Phone-%2B44_7857409881-green)](tel:+447857409881)
 
 ---
 
-*"Building the bridge between audio creativity and technical excellence"*
+*"From game audio to ML-powered engines - building the future of interactive experiences"*
