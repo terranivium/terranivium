@@ -76,6 +76,8 @@ Software Developer specialising in game engine development, audio processing, an
 
 ## 📊 Featured Projects
 
+<iframe frameborder="0" src="https://itch.io/embed/3338166" width="552" height="167"><a href="https://terranivium.itch.io/vocalslice">VocalSlice by terranivium</a></iframe>
+
 - VocalSlice - A desktop application that uses Whisper AI to find and extract specific voice lines from audio files
 - [Speech Emotion Recognition](https://github.com/terranivium/speech-emotion-recognition) - Deep learning for dimensional characterization of affect in speech (MSc thesis)
 
