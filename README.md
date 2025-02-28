@@ -33,7 +33,7 @@ Software Developer specialising in game engine development, audio processing, an
       <a href="https://cmake.org/"><img src="https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" /></a>
       <a href="https://circleci.com/"><img src="https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" /></a>
       <a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" /></a>
-      <a href="https://pace.dev/"><img src="https://img.shields.io/badge/-PACE-2C5BB4?style=flat-square" /></a>
+      <a href="https://paceap.com/"><img src="https://img.shields.io/badge/-PACE-2C5BB4?style=flat-square" /></a>
     </td>
   </tr>
   <tr>
