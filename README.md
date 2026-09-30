@@ -1,4 +1,3 @@
-# Hi, I'm Wesley 👋
 
 Software developer building tools for creators, with a background in game engines, audio DSP and machine learning · Glasgow, Scotland
 
