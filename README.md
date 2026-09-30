@@ -1,6 +1,6 @@
 # Hi, I'm Wesley 👋
 
-Software developer working on game engines, audio DSP and machine learning · Glasgow, Scotland
+Software developer building tools for creators, with a background in game engines, audio DSP and machine learning · Glasgow, Scotland
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,rust,python,java,js,pytorch,cmake,django,vue,postgres,mysql,jenkins,matlab,latex&perline=14" alt="C++, Rust, Python, Java, JavaScript, PyTorch, CMake, Django, Vue, PostgreSQL, MySQL, Jenkins, MATLAB, LaTeX" />
@@ -8,7 +8,7 @@ Software developer working on game engines, audio DSP and machine learning · Gl
 
 ### 🔨 Right now
 
-- **ML-powered audio & DSP** @ Krotos Ltd, plus CI/CD infrastructure
+- **[Krotos Studio](https://krotos.studio)**: sound design software for creating and performing royalty-free sound effects in real time, in Premiere Pro, DaVinci Resolve or your DAW
 - **[Vocal Slice](https://vocalslice.com)**: word-accurate voice slicing for Mac & Windows. Cut audio by selecting text.
 - **[ChillSweep](https://github.com/terranivium/chillsweep)**: a Windows cleanup app that finds what old apps, caches and dev projects left behind, and explains each item
 
