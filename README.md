@@ -9,7 +9,7 @@ Software developer working on game engines, audio DSP and machine learning · Gl
 ### 🔨 Right now
 
 - **ML-powered audio & DSP** @ Krotos Ltd, plus CI/CD infrastructure
-- **[Vocal Slice](https://terranivium.itch.io/vocalslice)**: word-accurate voice slicing for Mac & Windows. Cut audio by selecting text.
+- **[Vocal Slice](https://vocalslice.com)**: word-accurate voice slicing for Mac & Windows. Cut audio by selecting text.
 - **[ChillSweep](https://github.com/terranivium/chillsweep)**: a Windows cleanup app that finds what old apps, caches and dev projects left behind, and explains each item
 
 ### 📫 Say hi
@@ -21,24 +21,3 @@ Software developer working on game engines, audio DSP and machine learning · Gl
 If my tools save you some time, you can support them here:
 
 <a href="https://ko-fi.com/terranivium"><img height="36" src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" alt="Buy Me a Coffee at ko-fi.com" /></a>
-
-<details>
-<summary><b>More about me</b></summary>
-
-#### Background
-- Created soundtracks and audio for games on Steam (Games Workshop, Sekai Project)
-- Built quality-control systems for manufacturing environments
-
-#### Education
-- **MSc Software Development**, University of Glasgow (Distinction)<br>
-  Thesis: [Deep learning for robust dimensional characterisation of affect in speech](https://github.com/terranivium/speech-emotion-recognition)
-- **BSc (Hons) Audio Technology**, Glasgow Caledonian University
-
-#### Toolbox
-- **Languages:** C++, Rust, Python, Java, JavaScript, MATLAB, Shell, LaTeX
-- **Frameworks:** JUCE, PyTorch, Pandas, SDL, Vue.js, Django
-- **Build & CI:** CMake, CircleCI, Jenkins, PACE
-- **Testing:** Catch2, GoogleTest
-- **Data:** PostgreSQL, MySQL, Google Analytics, Mixpanel
-
-</details>
