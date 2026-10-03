@@ -9,7 +9,7 @@ Software developer building tools for creators, with a background in game engine
 
 - **[Krotos Studio](https://krotos.studio)**: sound design software for creating and performing royalty-free sound effects in real time, in Premiere Pro, DaVinci Resolve or your DAW
 - **[Vocal Slice](https://vocalslice.com)**: word-accurate voice slicing for Mac & Windows. Cut audio by selecting text.
-- **[ChillSweep](https://github.com/terranivium/chillsweep)**: a Windows cleanup app that finds what old apps, caches and dev projects left behind, and explains each item
+- **[ChillSweep](https://github.com/terranivium/chillsweep)**: a cleanup app that finds what old apps, caches and dev projects left behind, and explains each item
 
 ### 📫 Say hi
 
